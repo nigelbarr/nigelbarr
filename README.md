@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Nigel! <br/><a href="https://github.com/nigelbarr">Programmer</a>, <a href="https://www.linkedin.com/in/nigelbarreras/">Data Analyst</a>
 
-<!--
-**nigelbarr/nigelbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Personal Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Analysis Projects (SQL and Rstudio)</b>
+  - [Olympic Performance & Socioeconomic Analysis](Temp Link here)
+- <b>Java Projects</b>
+  - [Supermarket Simulation](Temp Link Here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📑 My Favorite Resources:</h2>
+
+- <b>[LaTeX Cheat Sheet 📃](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
+- <b>[Libre Text (Statistical Topics and Formulas) 📖](https://stats.libretexts.org/)
+- <b>[GeeksforGeeks (All things coding) 💻](https://www.geeksforgeeks.org/)
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NigelBarreras | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NigelBarreras | Handshake" width="22px" src="https://www.csusm.edu/careers/handshakelogos/round.png" />][Handshake]
+
+
+[Handshake]: https://utdallas.joinhandshake.com/profiles/qapkm3
+[linkedin]: https://linkedin.com/in/nigelbarreras
+
+
