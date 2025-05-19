@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NigelBarreras | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NigelBarreras | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />][linkedin]
 [<img align="left" alt="NigelBarreras | Handshake" width="22px" src="https://www.csusm.edu/careers/handshakelogos/round.png" />][Handshake]
 
 
