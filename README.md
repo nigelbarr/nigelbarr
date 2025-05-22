@@ -5,7 +5,7 @@
 - <b>Data Analysis Projects (SQL and Rstudio)</b>
   - [Olympic Performance & Socioeconomic Analysis](Temp Link here)
 - <b>Java Projects</b>
-  - [Supermarket Simulation](Temp Link Here)
+  - [Supermarket Simulation](https://github.com/nigelbarr/SupermarketSim)
 
 <h2>📑 My Favorite Resources:</h2>
 
