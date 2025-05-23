@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Data Analysis Projects (SQL and Rstudio)</b>
-  - [Olympic Performance & Socioeconomic Analysis](Temp Link here)
+  - [Olympic Performance & Socioeconomic Analysis](https://github.com/nigelbarr/OlympicDataAnalysis)
 - <b>Java Projects</b>
   - [Supermarket Simulation](https://github.com/nigelbarr/SupermarketSim)
 
