@@ -4,6 +4,7 @@
 
 - <b>Data Analysis Projects (SQL and Rstudio)</b>
   - [Olympic Performance & Socioeconomic Analysis](https://github.com/nigelbarr/OlympicDataAnalysis)
+  - [Retail Sales Analysis](https://github.com/nigelbarr/RetailSalesAnalysis)
 - <b>Java Projects</b>
   - [Supermarket Simulation](https://github.com/nigelbarr/SupermarketSim)
 
